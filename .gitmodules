@@ -1,0 +1,6 @@
+[submodule "voting-backend"]
+	path = voting-backend
+	url = git@github.com:Organisasjonskollegiet/voting-backend.git
+[submodule "voting-frontend"]
+	path = voting-frontend
+	url = git@github.com:Organisasjonskollegiet/voting-frontend.git
